@@ -4,3 +4,4 @@
 -👨‍💻 Sou um aspirante a programador.                                                                                                                                                
 -💻Um iniciante na área da ti/tic.                                                                                                                                               
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreRuanSilva)](https://github.com/AndreRuanSilva/github-readme-stats)
